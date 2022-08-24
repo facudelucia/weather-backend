@@ -11,5 +11,5 @@ Current endpoints:
 To run local: 
 - Clone repo
 - Inside app folder run: 'npm install'
-- To run in dev mode: 'npm run dev'
+- To run in dev mode: 'npm run dev', app should be up in port 4000
 - To run tests: 'npm test'
